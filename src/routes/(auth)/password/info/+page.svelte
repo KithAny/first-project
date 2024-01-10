@@ -1,0 +1,1 @@
+<h1>Password must be at least 8 characters, contain with at least one special character and one number </h1>
